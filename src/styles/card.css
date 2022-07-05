@@ -1,0 +1,35 @@
+#b{
+    margin-left: 100px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    p{
+        margin-left: 100px;
+        color: grey;
+        font-size: large;
+    }
+    button{
+        height: 50px;
+        border-radius: 25px;
+        cursor: pointer;
+        border: 0px;
+    }
+    .card{
+        border: 1px solid;
+    }
+    .image_box{
+        margin-left: 30px;
+        
+    }
+    #o{
+        color: greenyellow;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #i{
+        background-color: rgb(190, 223, 236);
+        color: black;
+        width: 170px;
+        border-radius: 20px;
+        text-align: center;
+        font-size: large;
+    }
